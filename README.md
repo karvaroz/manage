@@ -41,3 +41,7 @@ No dude en utilizar cualquier flujo de trabajo con el que se sienta cómodo. A c
 ## Envío de su solución
 
 Envíe su solución en el google forms adjunto en PG, por favor adjuntar un archivo ZIP.
+
+## Screenshot
+
+[![active-states.jpg](https://i.postimg.cc/pTPgK62h/active-states.jpg)](https://postimg.cc/CZ6PgJnS)
